@@ -1,7 +1,7 @@
 Yelp Review System
 
 
-+ Projec title: Yelp Review System
++ Yelp Review System
 + Team members
 	+ Jiayi Wang jw3316@columbia.edu
 	+ Ran Li rl2633@tc.columbia.edu
